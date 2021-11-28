@@ -60,7 +60,7 @@ p{
     display: flex;
     flex-direction: column;
 }
-input{
+.intro-buttons input{
     border-radius: 30px;
     color: white;
     border-style: none;
