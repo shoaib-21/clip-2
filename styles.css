@@ -74,7 +74,7 @@ input{
 } 
 
 .intro-buttons .ios{
-   background-color: hsl(171, 66%, 44%);
+   background-color: red; /*hsl(171, 66%, 44%);*/
     border-bottom :7px ridge hsl(171, 66%, 44%) ;
 
 }
